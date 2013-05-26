@@ -1,4 +1,4 @@
-package mypackage;
+package lu.globalepic.trackme;
 
 import java.util.Timer;
 

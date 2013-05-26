@@ -1,4 +1,4 @@
-package mypackage;
+package lu.globalepic.trackme;
 
 import net.rim.device.api.ui.container.MainScreen;
 import net.rim.device.api.ui.component.ButtonField;

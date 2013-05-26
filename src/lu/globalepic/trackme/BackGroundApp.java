@@ -1,4 +1,4 @@
-package mypackage;
+package lu.globalepic.trackme;
 import net.rim.device.api.system.Application;
 import net.rim.device.api.system.Bitmap;
 import net.rim.device.api.ui.Manager;
